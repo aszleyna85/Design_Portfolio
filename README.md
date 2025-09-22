@@ -8,16 +8,15 @@ This portfolio section demonstrates my experience across **AutoCAD, GIS, and ana
 - AutoCAD (Basic, Electrical, Map 3D)
 - Bentley Microstation
 - Cadence Virtuoso
-- GIS Platforms (Map-based design updates)
 
 ## 📂 Projects
 
-### 🔌 Voltage Regulator Circuit (Motorola – Smart Battery)
+### 🔌 Voltage Regulator Circuit (Smart Battery)
 - Tool: AutoCAD Electrical
 - Designed portion of smart battery schematic (components modified for confidentiality).
 - Ensured stable regulated voltage for sensitive electronics.
 
-### 🌐 FTTx Fiber Schematic (ECHO Broadband)
+### 🌐 FTTx Fiber Schematic
 - Tool: AutoCAD Basic
 - Updated fiber network schematics.
 - Verified fiber continuity and identified unused/damaged ports.
@@ -36,9 +35,5 @@ This portfolio section demonstrates my experience across **AutoCAD, GIS, and ana
 - Tool: Cadence Virtuoso
 - Designed and simulated a Ring Voltage-Controlled Oscillator (VCO).
 - Tuned W/L ratios and verified stable frequency output.
-
-## 🖼️ Screenshots
-![Fiber Schematic](./fiber-schematic.png)
-![GIS Map](./gis-map.png)
 
 ---
